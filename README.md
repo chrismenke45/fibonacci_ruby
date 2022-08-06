@@ -1,1 +1,1 @@
-This is a project to practice recursive functions.  I will make the fibonacci sequance both iterativly and recursively.
+This is a project to practice recursive functions.  I will make 2 separate functions that print the first N numbers of the fibonacci sequance. One will be iterative and the other will be recursive.
